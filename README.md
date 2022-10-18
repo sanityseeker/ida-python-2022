@@ -3,6 +3,7 @@
 Ссылки:
  - [Wiki курса](http://wiki.cs.hse.ru/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_22/23_(%D0%BC%D0%B0%D0%B9%D0%BD%D0%BE%D1%80_%D0%98%D0%90%D0%94))
  - [Ведомость](https://docs.google.com/spreadsheets/d/1VUACNvvtewTJZYF986zfNhNiLKQ1F_ubPgDMQygrBpA/)
+ - [Форма для сдачи бонусов](https://forms.gle/THdDf7fkVwKAbgnv8). Просьба делать один ответ на семинар. Обсуждения будут в личных сообщениях в телеграме.
 
 ## Прошедшие семираны:
 - [21.09.2022](seminar_1_intro.ipynb): Первое знакомство с языком. Установка среды разработки. Переменные. Булевые операции. If. Немного про строки. Дзен Python. (+ в тексте семинара есть гайд для установки WSL)
