@@ -3,7 +3,8 @@
 Ссылки:
  - [Wiki курса](http://wiki.cs.hse.ru/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_22/23_(%D0%BC%D0%B0%D0%B9%D0%BD%D0%BE%D1%80_%D0%98%D0%90%D0%94))
  - [Ведомость](https://docs.google.com/spreadsheets/d/1VUACNvvtewTJZYF986zfNhNiLKQ1F_ubPgDMQygrBpA/)
- - [Плейлист с записями семинаров](https://www.youtube.com/playlist?list=PLEwK9wdS5g0qIFUmzkfICIwdr7HR6GA38)
+ - [Плейлист с записями семинаров на YouTube](https://www.youtube.com/playlist?list=PLEwK9wdS5g0qIFUmzkfICIwdr7HR6GA38)
+ - [Записи семинаров на Yandex.Disk](https://disk.yandex.ru/d/YH-3luMiEVWh3w/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80)
  - [Форма для сдачи бонусов](https://forms.gle/THdDf7fkVwKAbgnv8). Просьба делать один ответ на семинар. Обсуждения будут в личных сообщениях в телеграме.
 
 ## Прошедшие семираны:
