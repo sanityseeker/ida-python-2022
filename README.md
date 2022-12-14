@@ -19,7 +19,7 @@
 - [23.11.2022](seminar_09_pre_midterm.ipynb): Решение задачек перед контрольной работой
 - [23.11.2022](seminar_09_descriptors.ipynb): @staticmethod, @classmethod, @property. Понятие дескриптора. Задание getter, setter, deleter для атрибутов класса.
 - [07.12.2022](seminar_10_inheritance.ipynb): Элементы функционального программирования -- itemgetter, attrgetter, methodcaller, filter, map, reduce, accumulate. Наследование. Обработка исключений.
-- [14.12.2022](seminar_11_various.ipynb): Python WTF
+- [14.12.2022](seminar_11_various.ipynb): Python WTF??!!
 
 
 ## Бонусы
@@ -35,3 +35,11 @@
 - Семинар 6: ~"Декоратор-кэш" (2 балла)~
 - Семинар 7: ~"E-mails", "Погенерируем пароли" (каждая на 1 балл)~
 - Семинар 10: "Поисковый индекс", "Декоратор-assert типов" (каждая на 2 балла)
+
+---
+
+Рекомендуемые материалы:
+  - Прекраснейшая [документация Python](https://docs.python.org),
+  - Курсы Георгия Курячего ([web](http://uneex.org/LecturesCMC), [youtube](https://www.youtube.com/channel/UC6m3WI2mgZLj3LgNYWQNH6g/featured)),
+  - ["Fluent Python, 2nd Edition", written by Luciano Ramalho](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/),
+  - ["Python Cookbook, 3rd Edition", David Beazley, Brian K. Jones](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/)
